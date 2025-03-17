@@ -1,4 +1,10 @@
-## Hi there 👋
+### About me 👋
+- 안녕하세요, 프론트엔드 개발자 김예안입니다.
+- React, Next.js, TypeScript를 주로 사용하며 더 나은 사용자 경험을 만드는 데 집중합니다.
+- 기록하며 성장하고, 더 좋은 코드를 고민하는 걸 좋아합니다. 
+
+---
+
 
 #### ✨ Frontend
 
@@ -40,7 +46,7 @@
 <br>
 
 #### 🥇 Experience
-- UMC 8th Web 파트장 <sub> (25.03~) </sub>
+- UMC 8th Web 파트장 <sub> (25.03 ~) </sub>
 - UMC 7th Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th Web 파트원 <sub>(24.03 ~ 24.08)</sub>
 - Likelion 12th Web 파트원 <sub>(24.03 ~ 24.12)</sub>
