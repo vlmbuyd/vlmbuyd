@@ -46,7 +46,9 @@
 <br>
 
 #### 🥇 Experience
+- 동아리/학회 통합 플랫폼 <a href="https://hanjari.site/">한자리</a> 개발 <sub> (25.03 ~) </sub>
 - UMC 8th Web 파트장 <sub> (25.03 ~) </sub>
+- 가을축제 웹 애플리케이션 <a href="https://falling-erica.web.app/">FAll:ing</a> 개발 <sub> (24.10)_약 2600명 이용 </sub>
 - UMC 7th Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th Web 파트원 <sub>(24.03 ~ 24.08)</sub>
 - Likelion 12th Web 파트원 <sub>(24.03 ~ 24.12)</sub>
