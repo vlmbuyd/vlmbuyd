@@ -31,7 +31,7 @@
 
 <br>
 
-#### 🎯 Recently Interested In
+#### 🎯 Recently Interested in
 - 아키텍처 & 디자인 패턴 : FSD, Atomic Design Pattern, MVVM
 - Realtime API :  WebRTC based Communication
 - 비즈니스 로직과 UI 관심사 분리 
@@ -43,7 +43,7 @@
 - UMC 8th Web 파트장 <sub> (25.03~) </sub>
 - UMC 7th Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th Web 파트원 <sub>(24.03 ~ 24.08)</sub>
-- Likeliion 12th Web 파트원 <sub>(24.03 ~ 24.12)</sub>
+- Likelion 12th Web 파트원 <sub>(24.03 ~ 24.12)</sub>
 
 <br>
 
