@@ -33,8 +33,10 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-E6CDFF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
 <img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/>
-<img src="https://img.shields.io/badge/CSS Modules-E6CDFF?style=flat&logo=css3&logoColor=black" alt="CSS Modules"/>
 <img src="https://img.shields.io/badge/shadcn/ui-E6CDFF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/>
+<img src="https://img.shields.io/badge/Radix UI-E6CDFF?style=flat&logo=radix-ui&logoColor=black" alt="Radix UI"/>
+<img src="https://img.shields.io/badge/Storybook-E6CDFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/>
+<!-- <img src="https://img.shields.io/badge/CSS Modules-E6CDFF?style=flat&logo=css3&logoColor=black" alt="CSS Modules"/> -->
 <!--   <img src="https://img.shields.io/badge/Chakra-CDE1FF?logo=chakraUi&logoColor=black&style=flat" alt="Chakra"/>
   <img src="https://img.shields.io/badge/Material UI-CDE1FF?style=flat&logo=mui&logoColor=black" alt="Material UI"/>
   <img src="https://img.shields.io/badge/Bootstrap-CDE1FF?style=flat&logo=bootstrap&logoColor=black" alt="Bootstrap"/> -->
@@ -47,6 +49,7 @@
   <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/>
   <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
+  <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/>
   <img src="https://img.shields.io/badge/Context_API-D1F4EF?style=flat&logo=react&logoColor=black" alt="Context API"/>
 </div>
 
