@@ -53,7 +53,7 @@
 #### 🥇 Experience
 - 한자리 - 동아리/학회 통합 플랫폼 개발 <a href="https://hanjari.site/">PWA </a> <sub> (25.03 ~) </sub>
 - UMC 8th - Web 파트장 <sub> (25.03 ~) </sub>
-- 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">웹앱</a> <sub> (25.01 ~ 25.02) </sub>
+- 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">웹앱</a> <sub> (25.01 ~) </sub>
 - FAll:ing - 가을축제 웹 애플리케이션 개발 <a href="https://falling-erica.web.app/">PWA</a> <sub> (24.09 ~ 24.10)_약 2600명 이용 </sub>
 - UMC 7th - Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
