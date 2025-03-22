@@ -15,6 +15,7 @@
 <div>
 <img src="https://img.shields.io/badge/JavaScript-D8EFFF?style=flat&logo=javascript&logoColor=gray" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/>
 </div>
 
 #### Libarary & Framework
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/>
-    <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/>
+  <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/>
 </div>
 
 #### UI Libraries
@@ -70,11 +71,13 @@
 <div>
 <!--   <img src="https://img.shields.io/badge/Storybook-D8EFFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/> -->
   <img src="https://img.shields.io/badge/Git-FAD4D4?style=flat&logo=git&logoColor=black" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-FAD4D4?style=flat&logo=GitHub&logoColor=black" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Figma-FAD4D4?style=flat&logo=Figma&logoColor=black" alt="Figma"/>
   <img src="https://img.shields.io/badge/Slack-FAD4D4?style=flat&logo=Slack&logoColor=black" alt="Slack"/>
   <img src="https://img.shields.io/badge/Discord-FAD4D4?style=flat&logo=Discord&logoColor=black" alt="Discord"/>
   <img src="https://img.shields.io/badge/Notion-FAD4D4?style=flat&logo=Notion&logoColor=black" alt="Notion"/>
-  <img src="https://img.shields.io/badge/GitHub-FAD4D4?style=flat&logo=GitHub&logoColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-FAD4D4?style=flat&logo=Jira&logoColor=black" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-FAD4D4?style=flat&logo=Confluence&logoColor=black" alt="Confluence"/>
 </div>
 
 <br>
