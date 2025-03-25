@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-E6CDFF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
 <img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/>
+<img src="https://img.shields.io/badge/👩‍🎤 Emotion-E6CDFF?style=flat&logo=none&logoColor=black" alt="Emotion"/>
 <img src="https://img.shields.io/badge/shadcn/ui-E6CDFF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/>
 <img src="https://img.shields.io/badge/Radix UI-E6CDFF?style=flat&logo=radix-ui&logoColor=black" alt="Radix UI"/>
 <img src="https://img.shields.io/badge/Storybook-E6CDFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/>
@@ -44,10 +45,11 @@
 </div>
 
 
-#### State Management
+#### Data Fetching / State Management
 
 <div>
   <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/>
+  <img src="https://img.shields.io/badge/SWR-D1F4EF?style=flat&logo=swr&logoColor=black" alt="SWR"/>
   <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
   <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/>
@@ -111,7 +113,7 @@
 
 
 
-#### 🎯 Recently Interested in
+#### 👀 Recently Interested in
 - 아키텍처 & 디자인 패턴 : FSD, Atomic Design Pattern, MVVM
 - Realtime API :  WebRTC based Communication
 - 비즈니스 로직과 UI 관심사 분리 
@@ -119,16 +121,29 @@
 
 <br>
 
-#### 🥇 Experience
-- 한자리 - 동아리/학회 통합 플랫폼 개발 <a href="https://hanjari.site/">PWA </a> <sub> (25.03 ~) </sub>
-- UMC 8th - Web 파트장 <sub> (25.03 ~) </sub>
+#### 🎯 Project
+- OUCH! - 외국인을 위한 의료지원 플랫폼 MVP 개발 <sub> (25.03 ~) </sub>
+- PROX - IT 직군을 위한 커리어형 컨텐츠 플랫폼 개발 <sub> (25.03 ~) </sub>
+- 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub>
+- 팀매니저 - 팀프로젝트 관리 서비스 개발 <sub> (25.01 ~) </sub>
+- 한자리 - 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site/">PWA </a> <sub> (25.01 ~) </sub>
 - 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">웹앱</a> <sub> (25.01 ~) </sub>
 - FAll:ing - 가을축제 웹 애플리케이션 개발 <a href="https://falling-erica.web.app/">PWA</a> <sub> (24.09 ~ 24.10)_약 2600명 이용 </sub>
+- 자전거에 관한 명상 - CSS Interaction을 활용한 시 표현 기획•디자인•개발 <a href="https://pedal-mind.netlify.app/">웹앱</a> <sub> (24.03)</sub>
+
+<br>
+
+#### 🥇 Experience
+- UMC 8th - Web 파트장 <sub> (25.03 ~) </sub>
+- SW융합연구개발 창업부문 선정 프로젝트 - S/W 개발 총괄 <sub>(25.01 ~ )</sub>
 - UMC 7th - Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
 - 멋쟁이사자처럼 12th - Web 파트원 <sub>(24.03 ~ 24.12)</sub>
+- 한양대학교 ERICA - ICT융합학부 미디어테크놀로지 전공 <sub>(20.03 ~ )</sub>
 
 <br>
+
+
 
 #### 📄 Records
 
