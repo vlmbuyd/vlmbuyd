@@ -45,7 +45,7 @@
 </div>
 
 
-#### Data Fetching / State Management
+#### Data Fetching & State Management
 
 <div>
   <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/>
@@ -59,8 +59,12 @@
 
 #### Backend
 <div>
- <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/>
+<!--  <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> -->
+ <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=node.js&logoColor=black" alt="Node.js"/>
+ <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
+ <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/>
+ <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/>
 <!--   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
   <img src="https://img.shields.io/badge/Axios-FEFCD7?style=flat&logo=axios&logoColor=black" alt="Axios"/>
   <img src="https://img.shields.io/badge/Vercel-FEFCD7?style=flat&logo=vercel&logoColor=black" alt="Vercel"/>
