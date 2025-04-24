@@ -62,6 +62,7 @@
 <!--  <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> -->
  <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=node.js&logoColor=black" alt="Node.js"/>
  <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/>
  <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
  <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/>
  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/>
@@ -131,9 +132,9 @@
 - 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub>
 - 팀매니저 - 팀프로젝트 관리 서비스 개발 <sub> (25.01 ~) </sub>
 - 한자리 - 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site/">PWA </a> <sub> (25.01 ~) </sub>
-- 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">웹앱</a> <sub> (25.01 ~) </sub>
+- 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">WEB</a> <sub> (25.01 ~) </sub>
 - FAll:ing - 가을축제 웹 애플리케이션 개발 <a href="https://falling-erica.web.app/">PWA</a> <sub> (24.09 ~ 24.10)_약 2600명 이용 </sub>
-- 자전거에 관한 명상 - CSS Interaction을 활용한 시 표현 기획•디자인•개발 <a href="https://pedal-mind.netlify.app/">웹앱</a> <sub> (24.05)</sub>
+- 자전거에 관한 명상 - CSS Interaction을 활용한 시 표현 기획•디자인•개발 <a href="https://pedal-mind.netlify.app/">WEB</a> <sub> (24.05)</sub>
 
 <br>
 
