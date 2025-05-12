@@ -65,7 +65,7 @@
 <!--   <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/> -->
 <!--  <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/> -->
  <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/>
- <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/>
+<!--  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/> -->
 <!--   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
   <img src="https://img.shields.io/badge/Axios-FEFCD7?style=flat&logo=axios&logoColor=black" alt="Axios"/>
   <img src="https://img.shields.io/badge/Vercel-FEFCD7?style=flat&logo=vercel&logoColor=black" alt="Vercel"/>
@@ -141,7 +141,7 @@
 #### 🥇 Experience
 - UMC 8th - Web 파트장 <sub> (25.03 ~) </sub>
 - SW융합연구개발 창업부문 선정 프로젝트 - S/W 개발 총괄 <sub>(25.01 ~ )</sub>
-- 산학협력 캡스톤디자인 – 가비아 기업과제 기반 Open API 활용 서비스 개발 프로젝트 <sub>(2024.06 ~ 2025.06)</sub>
+- 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발<sub>(24.06 ~ 25.06)</sub>
 - UMC 7th - Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
 - 멋쟁이사자처럼 12th - Web 파트원 <sub>(24.03 ~ 24.12)</sub>
