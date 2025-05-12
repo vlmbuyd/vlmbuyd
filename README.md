@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/>
+</div>
   <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/>
 </div>
 
@@ -62,8 +63,8 @@
 <!--  <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> -->
  <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=node.js&logoColor=black" alt="Node.js"/>
  <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/>
-  <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/>
- <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
+<!--   <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/> -->
+<!--  <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/> -->
  <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/>
  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/>
 <!--   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
@@ -141,6 +142,7 @@
 #### 🥇 Experience
 - UMC 8th - Web 파트장 <sub> (25.03 ~) </sub>
 - SW융합연구개발 창업부문 선정 프로젝트 - S/W 개발 총괄 <sub>(25.01 ~ )</sub>
+- 산학협력 캡스톤디자인 – 가비아 기업과제 기반 Open API 활용 서비스 개발 프로젝트 <sub>(2024.06 ~ 2025.06)</sub>
 - UMC 7th - Web 파트장 <sub>(24.09 ~ 25.02)</sub>
 - UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
 - 멋쟁이사자처럼 12th - Web 파트원 <sub>(24.03 ~ 24.12)</sub>
