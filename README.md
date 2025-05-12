@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/>
-</div>
   <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/>
 </div>
 
