@@ -1,13 +1,13 @@
 ### About me 👋
 안녕하세요, 프론트엔드 개발자 김예안입니다. <br>
-작은 일에서도 배울 점을 찾아 꾸준히 성장하며, <br> 사용자에게 가치 있는 
-서비스를 제공하는 것을 목표로 합니다.
+작은 일에서도 배울 점을 찾아 꾸준히 성장하며, <br> 사용자에게 진정한 가치를 전달하는 
+서비스를 만드는 것을 목표로 합니다.
 
 ### Tech & Craft  🫧
-- React, React-Native, Next.js를 주로 다루며, 더 나은 코드를 고민하는 것을 즐깁니다.
-- 단순한 기술 습득을 넘어, 원리를 깊이 이해하는 개발을 지향합니다.
-- 레고를 조립하듯 UI를 설계하며, 기능과 유기적으로 연결되는 구조를 만드는 데 집중합니다.
-- 부드럽고 인터랙티브한 UI를 구현하는 데 즐거움을 느낍니다.
+- React, React-Native, Next.js를 중심으로 더 나은 코드를 고민하며 개발합니다.
+- 단순한 기술 습득을 넘어, 동작 원리를 깊이 이해하고자 합니다.
+- 레고를 조립하듯 UI를 설계하며, 기능과 유기적으로 연결되는 구조에 집중합니다.
+- 부드럽고 감각적인 인터랙션 구현에 즐거움을 느낍니다.
 
 ---
 
@@ -127,11 +127,11 @@
 <br>
 
 #### 🎯 Project
-- OUCH! - 외국인을 위한 의료지원 플랫폼 MVP 개발 <sub> (25.03 ~) </sub>
 - PROX - IT 직군을 위한 커리어형 컨텐츠 플랫폼 개발 <sub> (25.03 ~) </sub>
 - 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub>
 - 팀매니저 - 팀프로젝트 관리 서비스 개발 <sub> (25.01 ~) </sub>
-- 한자리 - 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site/">PWA </a> <sub> (25.01 ~) </sub>
+- OUCH! - 외국인을 위한 의료지원 플랫폼 개발 <a href="https://ouchs.netlify.app">PWA </a> <sub> (25.03 ~) </sub>
+- 한자리 - 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site/">PWA</a> <sub> (25.01 ~) </sub>
 - 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">WEB</a> <sub> (25.01 ~) </sub>
 - FAll:ing - 가을축제 웹 애플리케이션 개발 <a href="https://falling-erica.web.app/">PWA</a> <sub> (24.09 ~ 24.10)_약 2600명 이용 </sub>
 - 자전거에 관한 명상 - CSS Interaction을 활용한 시 표현 기획•디자인•개발 <a href="https://pedal-mind.netlify.app/">WEB</a> <sub> (24.05)</sub>
@@ -153,4 +153,4 @@
 
 #### 📄 Records
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vlmbuyd)](https://velog.io/@vlmbuyd/UI-%EA%B3%84%EC%B8%B5-%EC%84%A4%EA%B3%84-FSD-Atomic-Design-Pattern-%EC%A0%81%EC%9A%A9%EA%B8%B0-2a3rothv)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vlmbuyd)](https://velog.io/@vlmbuyd/posts)
