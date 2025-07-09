@@ -20,7 +20,7 @@
 <div>
 <img src="https://img.shields.io/badge/JavaScript-D8EFFF?style=flat&logo=javascript&logoColor=gray" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/>
+<!-- <img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/> -->
 </div>
 
 #### Libarary & Framework
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/React-B7D4FF?style=flat&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/>
+<!--   <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/> -->
   <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/>
 </div>
 
@@ -144,7 +144,7 @@
 <br>
 
 #### 🥇 Experience
-- 네이버 부스트캠프 10th 웹•모바일 <sub>(25.06 ~ )</sub>
+- 네이버 부스트캠프 10th 웹•모바일 베이직 <sub>(25.06 ~ 25.07)</sub>
 - SW융합연구개발 창업부문 선정 프로젝트 - S/W 개발 총괄 <sub>(25.01 ~ )</sub>
 - UMC 8th - Web 파트장 <sub> (25.03 ~ 25.08) </sub>
 - 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발<sub>(24.06 ~ 25.06)</sub>
