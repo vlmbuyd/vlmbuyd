@@ -1,11 +1,11 @@
 ### About me 👋
 안녕하세요, **감각적으로 사용자의 경험을 설계하는** 개발자 김예안입니다. <br>
 어릴 적 종이에 게임을 그려 친구들과 놀던 기억 속에서  <br>
-**'내가 만든 것이 누군가에게 의미있게 다가가는 순간'** 의 설렘을 느꼈습니다.<br>
-이 감정을 간직한 채, 사용자에게 가치를 전하는 개발자가 되고자 합니다.<br>
+'내가 만든 것이 누군가에게 의미있게 다가가는 순간' 의 설렘을 느꼈습니다.<br>
+이 감정을 간직한 채, 사용자에게 가치를 전할 수 있는 개발자를 꿈꾸고 있습니다.<br>
 
-기본이 차이를 만든다고 믿습니다. <br> 
-단순한 구현을 넘어서 **의도가 분명히 드러나는** 코드와 구조를 설계하고자 노력합니다.
+**기본이 차이를 만든다**는 믿음으로 AI 시대 속에서도 흔들림 없이 기초를 다지고, <br> 
+**명확한 의도를 담은 코드와 구조를 설계**하는 데 집중하고 있습니다.
 
 
 ### Tech & Craft  🫧
@@ -20,7 +20,7 @@
 <div>
 <img src="https://img.shields.io/badge/JavaScript-D8EFFF?style=flat&logo=javascript&logoColor=gray" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/>
+<!-- <img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/> -->
 </div>
 
 #### Libarary & Framework
