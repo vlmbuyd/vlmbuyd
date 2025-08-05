@@ -20,7 +20,7 @@
 <div>
 <img src="https://img.shields.io/badge/JavaScript-D8EFFF?style=flat&logo=javascript&logoColor=gray" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
-<!-- <img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/> -->
+<img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/>
 </div>
 
 #### Libarary & Framework
@@ -66,9 +66,9 @@
 <div>
 <!--  <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> -->
  <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=node.js&logoColor=black" alt="Node.js"/>
- <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/>
-<!--   <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/> -->
-<!--  <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/> -->
+<!--  <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/> -->
+  <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
  <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/>
 <!--  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/> -->
 <!--   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
