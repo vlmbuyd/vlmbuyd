@@ -1,18 +1,15 @@
 ### About me 👋
-안녕하세요, **감각적으로 사용자의 경험을 설계하는** 개발자 김예안입니다. <br>
-어릴 적 종이에 게임을 그려 친구들과 놀던 기억 속에서  <br>
-'내가 만든 것이 누군가에게 의미있게 다가가는 순간' 의 설렘을 느꼈습니다.<br>
-이 감정을 간직한 채, 사용자에게 가치를 전할 수 있는 개발자를 꿈꾸고 있습니다.<br>
+종이 위에 직접 게임을 그려 친구들과 놀던 어린 시절, <br/>
+**'내가 만든 것이 누군가에게 의미있게 다가가는 순간'** 의 설렘을 처음 느꼈습니다.
 
-**기본이 차이를 만든다**는 믿음으로 AI 시대 속에서도 흔들림 없이 기초를 다지고, <br> 
-**명확한 의도를 담은 코드와 구조를 설계**하는 데 집중하고 있습니다.
+그때의 소중한 경험을 바탕으로 <br> 
+코드를 통해 사용자에게 **감각적이고 가치 있는** 경험을 전달하는 개발자가 되고자 합니다.
 
 
 ### Tech & Craft  🫧
-- React, React-Native, Next.js를 중심으로 더 나은 코드를 고민합니다.
-- 단순한 기술 습득을 넘어, 동작 원리에 대한 깊은 이해를 추구합니다.
-- 레고를 조립하듯 UI를 설계하며, 기능과 유기적으로 연결되는 구조에 집중합니다.
-- 부드럽고 감각적인 인터랙션을 통해 사용자의 경험을 섬세하게 설계합니다.
+- 빠르게 변하는 기술 속에서도 동작 원리에 대한 깊은 이해를 추구하며 기본을 다집니다.
+- 누가 읽어도 이해하기 쉽고, 의도가 명확히 드러나는 코드를 지향합니다.
+- 기능 너머의 감각적인 인터랙션을 설계하여 완성도 높은 사용자 경험을 만듭니다.
 
 ---
 
@@ -35,13 +32,13 @@
 #### UI Libraries
 
 <div>
-<img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/>
+<!-- <img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/> -->
 <img src="https://img.shields.io/badge/Tailwind CSS-E6CDFF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
 <img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/>
 <img src="https://img.shields.io/badge/👩‍🎤 Emotion-E6CDFF?style=flat&logo=none&logoColor=black" alt="Emotion"/>
-<img src="https://img.shields.io/badge/shadcn/ui-E6CDFF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/>
-<img src="https://img.shields.io/badge/Radix UI-E6CDFF?style=flat&logo=radix-ui&logoColor=black" alt="Radix UI"/>
+<img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
+<!-- <img src="https://img.shields.io/badge/shadcn/ui-E6CDFF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/> -->
+<!-- <img src="https://img.shields.io/badge/Radix UI-E6CDFF?style=flat&logo=radix-ui&logoColor=black" alt="Radix UI"/> -->
 <img src="https://img.shields.io/badge/Storybook-E6CDFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/>
 <!-- <img src="https://img.shields.io/badge/CSS Modules-E6CDFF?style=flat&logo=css3&logoColor=black" alt="CSS Modules"/> -->
 <!--   <img src="https://img.shields.io/badge/Chakra-CDE1FF?logo=chakraUi&logoColor=black&style=flat" alt="Chakra"/>
@@ -50,15 +47,15 @@
 </div>
 
 
-#### Data Fetching & State Management
+#### State Management
 
 <div>
   <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/>
-  <img src="https://img.shields.io/badge/SWR-D1F4EF?style=flat&logo=swr&logoColor=black" alt="SWR"/>
+  <!-- <img src="https://img.shields.io/badge/SWR-D1F4EF?style=flat&logo=swr&logoColor=black" alt="SWR"/> -->
   <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
   <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/>
-  <img src="https://img.shields.io/badge/Context_API-D1F4EF?style=flat&logo=react&logoColor=black" alt="Context API"/>
+  <!-- <img src="https://img.shields.io/badge/Context_API-D1F4EF?style=flat&logo=react&logoColor=black" alt="Context API"/> -->
 </div>
 
 
@@ -123,16 +120,15 @@
 
 
 
-#### 👀 Recently Interested in
+<!--#### 👀 Recently Interested in
 - 아키텍처 & 디자인 패턴 : FSD, Atomic Design Pattern, MVVM
 - Realtime API :  WebRTC based Communication
 - 비즈니스 로직과 UI 관심사 분리 
-- Interactive Web Programming : 2D/3D animation
-
-<br>
+- Interactive Web Programming : 2D/3D animation 
+<br>-->
 
 #### 🎯 Project
-- PROX - IT 직군을 위한 커리어형 컨텐츠 플랫폼 개발 <sub> (25.03 ~) </sub>
+- hubble - IT 콘텐츠 End-to-End 플랫폼 개발 <sub> (25.07 ~) </sub>
 - 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub>
 - 팀매니저 - 팀프로젝트 관리 서비스 개발 <sub> (25.01 ~) </sub>
 - OUCH! - 외국인을 위한 의료지원 플랫폼 개발 <a href="https://ouchs.netlify.app">PWA </a> <sub> (25.03 ~) </sub>
@@ -144,7 +140,7 @@
 <br>
 
 #### 🥇 Experience
-- SW융합연구개발 창업부문 선정 프로젝트 - S/W 개발 총괄 <sub>(25.01 ~ )</sub>
+- SW 중심대학사업단 창업 부문 프로젝트 2건 선정 및 수행 <sub>(25.01 ~ )</sub>
 - 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발<sub>(24.06 ~ 25.06)</sub>
 - UMC 7,8th - Web 파트장 <sub>(24.09 ~ 25.08)</sub>
 - UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
