@@ -32,7 +32,7 @@
 #### UI Libraries
 
 <div>
-<!-- <img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/> -->
+<img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-E6CDFF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/>
 <img src="https://img.shields.io/badge/👩‍🎤 Emotion-E6CDFF?style=flat&logo=none&logoColor=black" alt="Emotion"/>
