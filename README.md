@@ -17,7 +17,7 @@
 <div>
 <img src="https://img.shields.io/badge/JavaScript-D8EFFF?style=flat&logo=javascript&logoColor=gray" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/>
+<!-- <img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/> -->
 </div>
 
 #### Libarary & Framework
@@ -128,7 +128,6 @@
 <br>-->
 
 #### 🎯 Project
-- hubble - IT 콘텐츠 End-to-End 플랫폼 개발 <sub> (25.07 ~) </sub>
 - 담다 - AI 감정분석 일기 서비스 기획•개발 <sub> (25.02 ~) </sub>
 - 팀매니저 - 팀프로젝트 관리 서비스 개발 <sub> (25.01 ~) </sub>
 - 한자리 - 교내 동아리•학회 통합 플랫폼 개발 <sub> (25.01 ~) [MAU 1,700명 달성]</sub>
