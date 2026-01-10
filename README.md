@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
 <!--   <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/> -->
-  <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/>
+  <!-- <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/> -->
 </div>
 
 #### UI Libraries
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-E6CDFF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/>
-<img src="https://img.shields.io/badge/👩‍🎤 Emotion-E6CDFF?style=flat&logo=none&logoColor=black" alt="Emotion"/>
+<!-- <img src="https://img.shields.io/badge/👩‍🎤 Emotion-E6CDFF?style=flat&logo=none&logoColor=black" alt="Emotion"/> -->
 <img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
 <!-- <img src="https://img.shields.io/badge/shadcn/ui-E6CDFF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/> -->
 <!-- <img src="https://img.shields.io/badge/Radix UI-E6CDFF?style=flat&logo=radix-ui&logoColor=black" alt="Radix UI"/> -->
@@ -54,7 +54,7 @@
   <!-- <img src="https://img.shields.io/badge/SWR-D1F4EF?style=flat&logo=swr&logoColor=black" alt="SWR"/> -->
   <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
-  <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/>
+  <!-- <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/> -->
   <!-- <img src="https://img.shields.io/badge/Context_API-D1F4EF?style=flat&logo=react&logoColor=black" alt="Context API"/> -->
 </div>
 
@@ -66,7 +66,7 @@
 <!--  <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/> -->
   <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/>
  <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
- <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/>
+ <!-- <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/> -->
 <!--  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/> -->
 <!--   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
   <img src="https://img.shields.io/badge/Axios-FEFCD7?style=flat&logo=axios&logoColor=black" alt="Axios"/>
@@ -138,7 +138,7 @@
 <br>
 
 #### 🥇 Experience
-- SW 중심대학사업단 창업 부문 프로젝트 2건 선정 및 수행 <sub>(25.01 ~ )</sub>
+- SW 중심대학사업단 창업 부문 프로젝트 2건 선정 및 수행 <sub>(25.01 ~ 25.12)</sub>
 - 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발 <sub>(24.06 ~ 25.06)</sub>
 - UMC 7,8th - Web 파트장 <sub>(24.09 ~ 25.08)</sub>
 - UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
