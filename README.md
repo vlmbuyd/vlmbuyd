@@ -54,7 +54,7 @@
   <!-- <img src="https://img.shields.io/badge/SWR-D1F4EF?style=flat&logo=swr&logoColor=black" alt="SWR"/> -->
   <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
-  <!-- <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/> -->
+  <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/>
   <!-- <img src="https://img.shields.io/badge/Context_API-D1F4EF?style=flat&logo=react&logoColor=black" alt="Context API"/> -->
 </div>
 
@@ -129,15 +129,16 @@
 
 #### 🎯 Project
 - 담다 - AI 감정분석 일기 서비스 기획•개발 <sub> (25.02 ~) </sub>
-- 팀매니저 - 팀프로젝트 관리 서비스 개발 <sub> (25.01 ~) </sub>
-- 한자리 - 교내 동아리•학회 통합 플랫폼 개발 <sub> (25.01 ~) [MAU 1,700명 달성]</sub>
+- 팀매니저 - 팀프로젝트 관리 서비스 개발 <a href="https://www.teammanagers.kr">WEB </a> <sub> (25.01 ~) </sub>
+- 한자리 - 교내 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site">PWA </a> <sub> (25.01 ~) [MAU 1,700명 달성]</sub>
 - OUCH! - 외국인을 위한 의료지원 플랫폼 개발 <sub> (25.03 ~ 25.06) </sub>
-- 멋쟁이사자처럼 - 공식 홈페이지 개발 <sub> (25.01 ~ 25.04) </sub>
-- FAll:ing - 가을축제 웹 애플리케이션 개발 <sub> (24.09 ~ 24.10) [누적 사용자 2,600명 달성] </sub>
+- 멋쟁이사자처럼 - 공식 홈페이지 개발 <a href="https://ericalion.vercel.app/">WEB </a> <sub> (25.01 ~ 25.04) </sub>
+- FAll:ing - 가을축제 웹 애플리케이션 개발 <a href="https://falling-erica.web.app">PWA </a> <sub> (24.09 ~ 24.10) [누적 사용자 2,600명 달성] </sub>
 
 <br>
 
 #### 🥇 Experience
+- 우아한테크코스 8th Web Frontend <sub>(26.02 ~ 26.11)</sub>
 - SW 중심대학사업단 창업 부문 프로젝트 2건 선정 및 수행 <sub>(25.01 ~ 25.12)</sub>
 - 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발 <sub>(24.06 ~ 25.06)</sub>
 - UMC 7,8th - Web 파트장 <sub>(24.09 ~ 25.08)</sub>
