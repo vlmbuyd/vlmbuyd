@@ -59,20 +59,20 @@
 </div>
 
 
-#### Backend
-<div>
+<!-- #### Backend -->
+<!-- <div> -->
 <!--  <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/> -->
- <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=node.js&logoColor=black" alt="Node.js"/>
+ <!-- <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=node.js&logoColor=black" alt="Node.js"/> -->
 <!--  <img src="https://img.shields.io/badge/Express-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express"/> -->
-  <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/>
- <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
+  <!-- <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/> -->
+ <!-- <img src="https://img.shields.io/badge/PostgreSQL-FEFCD7?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL"/> -->
  <!-- <img src="https://img.shields.io/badge/MongoDB-FEFCD7?style=flat&logo=mongodb&logoColor=black" alt="MongoDB"/> -->
 <!--  <img src="https://img.shields.io/badge/Supabase-FEFCD7?style=flat&logo=supabase&logoColor=black" alt="Supabase"/> -->
 <!--   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
   <img src="https://img.shields.io/badge/Axios-FEFCD7?style=flat&logo=axios&logoColor=black" alt="Axios"/>
   <img src="https://img.shields.io/badge/Vercel-FEFCD7?style=flat&logo=vercel&logoColor=black" alt="Vercel"/>
  <img src="https://img.shields.io/badge/Firebase Authentication-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase Authentication"/> -->
-</div>
+<!-- </div> -->
 
 
 #### Cowork Tools
@@ -128,7 +128,7 @@
 <br>-->
 
 #### 🎯 Project
-- 담다 - AI 감정분석 일기 서비스 기획•개발 <sub> (25.02 ~) </sub>
+- 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub>
 - 팀매니저 - 팀프로젝트 관리 서비스 개발 <a href="https://www.teammanagers.kr">WEB </a> <sub> (25.01 ~) </sub>
 - 한자리 - 교내 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site">PWA </a> <sub> (25.01 ~) [MAU 1,700명 달성]</sub>
 - OUCH! - 외국인을 위한 의료지원 플랫폼 개발 <sub> (25.03 ~ 25.06) </sub>
@@ -138,11 +138,11 @@
 <br>
 
 #### 🥇 Experience
-- 우아한테크코스 8th Web Frontend <sub>(26.02 ~ 26.11)</sub>
+- 우아한테크코스 8th - 웹프론트엔드 파트 <sub>(26.02 ~ 26.11)</sub>
 - SW 중심대학사업단 창업 부문 프로젝트 2건 선정 및 수행 <sub>(25.01 ~ 25.12)</sub>
 - 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발 <sub>(24.06 ~ 25.06)</sub>
-- UMC 7,8th - Web 파트장 <sub>(24.09 ~ 25.08)</sub>
-- UMC 6th - Web 파트원 <sub>(24.03 ~ 24.08)</sub>
+- UMC 7,8th - 웹프론트엔드 파트장 <sub>(24.09 ~ 25.08)</sub>
+- UMC 6th - 웹프론트엔드 파트원 <sub>(24.03 ~ 24.08)</sub>
 - 멋쟁이사자처럼 12th - Web 파트원 <sub>(24.03 ~ 24.12)</sub>
 - 한양대학교 ERICA - ICT융합학부 미디어테크놀로지 전공 <sub>(20.03 ~ )</sub>
 <!--- 네이버 부스트캠프 10th 웹•모바일 베이직 <sub>(25.06 ~ 25.07)</sub> -->
