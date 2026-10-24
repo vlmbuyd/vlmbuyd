@@ -13,33 +13,41 @@
 
 ---
 
-#### Languages
+#### Stack
+
 <div>
 <img src="https://img.shields.io/badge/JavaScript-D8EFFF?style=flat&logo=javascript&logoColor=gray" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>  
+  <img src="https://img.shields.io/badge/React-B7D4FF?style=flat&logo=react&logoColor=black" alt="React"/>
+</div>
+
+<!--  #### Languages -->
+<div>
+
 <!-- <img src="https://img.shields.io/badge/Python-D8EFFF?style=flat&logo=python&logoColor=black" alt="Python"/> -->
 </div>
 
-#### Libarary & Framework
+<!-- #### Libarary & Framework -->
 <div>
-  <img src="https://img.shields.io/badge/React-B7D4FF?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
+  
+  <!-- <img src="https://img.shields.io/badge/React_Native-B7D4FF?style=flat&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-B7D4FF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/> -->
+  
 <!--   <img src="https://img.shields.io/badge/Three.js-B7D4FF?style=flat&logo=threedotjs&logoColor=black" alt="Three.js"/> -->
   <!-- <img src="https://img.shields.io/badge/PWA-B7D4FF?style=flat&logo=pwa&logoColor=black" alt="PWA"/> -->
 </div>
 
-#### UI Libraries
 
 <div>
-<img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/>
+<!-- <img src="https://img.shields.io/badge/Styled Components-E6CDFF?style=flat&logo=styled-components&logoColor=black" alt="Styled Components"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-E6CDFF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/>
+<img src="https://img.shields.io/badge/🍦 Vanilla Extract-E6CDFF?style=flat&logo=none&logoColor=black" alt="Vanilla Extract"/> -->
+  
 <!-- <img src="https://img.shields.io/badge/👩‍🎤 Emotion-E6CDFF?style=flat&logo=none&logoColor=black" alt="Emotion"/> -->
-<img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
+<!-- <img src="https://img.shields.io/badge/Sass-E6CDFF?style=flat&logo=sass&logoColor=black" alt="Sass"/> -->
 <!-- <img src="https://img.shields.io/badge/shadcn/ui-E6CDFF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/> -->
 <!-- <img src="https://img.shields.io/badge/Radix UI-E6CDFF?style=flat&logo=radix-ui&logoColor=black" alt="Radix UI"/> -->
-<img src="https://img.shields.io/badge/Storybook-E6CDFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/>
+<!-- <img src="https://img.shields.io/badge/Storybook-E6CDFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/> -->
 <!-- <img src="https://img.shields.io/badge/CSS Modules-E6CDFF?style=flat&logo=css3&logoColor=black" alt="CSS Modules"/> -->
 <!--   <img src="https://img.shields.io/badge/Chakra-CDE1FF?logo=chakraUi&logoColor=black&style=flat" alt="Chakra"/>
   <img src="https://img.shields.io/badge/Material UI-CDE1FF?style=flat&logo=mui&logoColor=black" alt="Material UI"/>
@@ -47,14 +55,17 @@
 </div>
 
 
-#### State Management
+<!-- #### State Management -->
 
 <div>
-  <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/>
+  <!-- <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/> -->
   <!-- <img src="https://img.shields.io/badge/SWR-D1F4EF?style=flat&logo=swr&logoColor=black" alt="SWR"/> -->
-  <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
+  
+  <!-- <img src="https://img.shields.io/badge/🐻 Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
-  <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/>
+  <img src="https://img.shields.io/badge/👻 Jotai-D1F4EF?style=flat&logo=jotai&logoColor=black" alt="Jotai"/> -->
+
+  
   <!-- <img src="https://img.shields.io/badge/Context_API-D1F4EF?style=flat&logo=react&logoColor=black" alt="Context API"/> -->
 </div>
 
@@ -128,7 +139,8 @@
 <br>-->
 
 #### 🎯 Project
-- 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub>
+<!-- - 담다 - AI 감정분석 일기 서비스 기획•디자인•개발 <sub> (25.02 ~) </sub> -->
+- knot - AI 기반 회의 문서화 및 검색 서비스 <a href="https://knoted.kr">WEB </a> <sub> (26.08 ~) </sub>
 - 팀매니저 - 팀프로젝트 관리 서비스 개발 <a href="https://www.teammanagers.kr">WEB </a> <sub> (25.01 ~) </sub>
 - 한자리 - 교내 동아리•학회 통합 플랫폼 개발 <a href="https://hanjari.site">PWA </a> <sub> (25.01 ~) [MAU 1,700명 달성]</sub>
 - OUCH! - 외국인을 위한 의료지원 플랫폼 개발 <sub> (25.03 ~ 25.06) </sub>
@@ -138,7 +150,7 @@
 <br>
 
 #### 🥇 Experience
-- 우아한테크코스 8th - 웹 프론트엔드 파트 <sub>(26.02 ~ 26.11)</sub>
+- 우아한테크코스 8th - 웹 프론트엔드 파트 <sub>(26.02 ~ 26.12)</sub>
 - SW 중심대학사업단 창업 부문 프로젝트 2건 선정 및 수행 <sub>(25.01 ~ 25.12)</sub>
 - 산학협력 캡스톤디자인(가비아) – Open API 기반 웹 서비스 기획•개발 <sub>(24.06 ~ 25.06)</sub>
 - UMC 7,8th - Web 파트장 <sub>(24.09 ~ 25.08)</sub>
